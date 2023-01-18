@@ -24,3 +24,4 @@ SELECT * FROM empresaltda WHERE valor > 500;
 SELECT * FROM empresaltda WHERE valor < 500;
 
 UPDATE empresaltda SET valor = 1587.99 WHERE id_produto = 3;
+
