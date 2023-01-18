@@ -1,6 +1,6 @@
 create database rh_empresa;
 
-user rh_empresa;
+use rh_empresa;
 create table funcionarios(
   matricula_empresa int(10) not null,
   nome varchar(20),
